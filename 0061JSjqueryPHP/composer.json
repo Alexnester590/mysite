@@ -1,0 +1,7 @@
+{
+    "require": {
+        "parse/php-sdk" : "1.6.*",
+        "monolog/monolog": "1.17.*",
+        "psy/psysh": "^0.11.10"
+    }
+}
